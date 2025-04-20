@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@viro-community/react-viro": "^2.41.1",
     "react": "19.0.0",
     "react-native": "0.79.1"
   },
